@@ -4,7 +4,7 @@
   "description": "Frontend application template",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openedx/frontend-app-authn.git"
+    "url": "git+https://github.com/yagnesh-collab/frontend-app-authn"
   },
   "browserslist": [
     "extends @edx/browserslist-config"
